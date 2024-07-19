@@ -2497,11 +2497,9 @@ input, select, textarea {
 			transition: all .5s ease;
 			color: #66fcf1;
 			border: 3px solid #66fcf1;
-			/* font-family:'Montserrat', sans-serif; */
 			text-transform: uppercase;
 			text-align: center;
 			line-height: 1;
-			font-size: 17px;
 			background-color : transparent;
 			padding: 10px;
 			outline: none;
