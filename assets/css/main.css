@@ -81,6 +81,10 @@ input, select, textarea {
 	text-decoration: underline;
 }
 
+.italics {
+	font-style: italic;
+}
+
 /* Basic */
 
 	@-ms-viewport {
