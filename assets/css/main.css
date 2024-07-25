@@ -112,6 +112,8 @@ input, select, textarea {
 .center-image {
 	max-width: 400px; 
 	margin: auto;
+	max-height: 400px;
+	min-height: 400px;
 }
 
 .white-bg{
