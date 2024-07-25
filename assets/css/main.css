@@ -55,6 +55,7 @@ body {
 	-webkit-text-size-adjust: none;
 }
 
+
 mark {
 	background-color: transparent;
 	color: inherit;
@@ -70,6 +71,14 @@ input, select, textarea {
 	-webkit-appearance: none;
 	-ms-appearance: none;
 	appearance: none;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.underline {
+	text-decoration: underline;
 }
 
 /* Basic */
@@ -2497,12 +2506,10 @@ input, select, textarea {
 			transition: all .5s ease;
 			color: #66fcf1;
 			border: 3px solid #66fcf1;
-			text-transform: uppercase;
 			text-align: center;
 			line-height: 1;
 			background-color : transparent;
 			padding: 10px;
-			outline: none;
 			border-radius: 4px;
 		}
 		
